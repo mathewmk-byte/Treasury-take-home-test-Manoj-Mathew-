@@ -1,0 +1,6 @@
+streamlit>=1.35
+pytesseract>=0.3.10
+opencv-python-headless>=4.9
+numpy>=1.26
+Pillow>=10.0
+rapidfuzz>=3.6
